@@ -7,3 +7,4 @@ symbols to avoid conflicts with other copies of the library within a single
 process.
 
   * Ignore whitespace errors for VTK's commit checks.
+  * Integrate the CMake build with VTK's module system.
