@@ -42,6 +42,8 @@
 #include <string>
 #include <vector>
 
+#define protobuf vtkprotobuf
+
 #include <google/protobuf/stubs/port.h>
 #include <google/protobuf/stubs/macros.h>
 #include <google/protobuf/stubs/platform_macros.h>

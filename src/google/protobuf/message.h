@@ -110,6 +110,10 @@
 #ifndef GOOGLE_PROTOBUF_MESSAGE_H__
 #define GOOGLE_PROTOBUF_MESSAGE_H__
 
+#ifndef protobuf
+#define protobuf vtkprotobuf
+#endif
+
 #include <iosfwd>
 #include <string>
 #include <google/protobuf/stubs/type_traits.h>

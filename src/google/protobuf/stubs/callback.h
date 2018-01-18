@@ -1,6 +1,10 @@
 #ifndef GOOGLE_PROTOBUF_STUBS_CALLBACK_H_
 #define GOOGLE_PROTOBUF_STUBS_CALLBACK_H_
 
+#ifndef protobuf
+#define protobuf vtkprotobuf
+#endif
+
 #include <google/protobuf/stubs/macros.h>
 #include <google/protobuf/stubs/type_traits.h>
 
