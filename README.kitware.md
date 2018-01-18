@@ -9,3 +9,4 @@ process.
   * Ignore whitespace errors for VTK's commit checks.
   * Integrate the CMake build with VTK's module system.
   * Mangle all exported symbols to have a `vtkprotobuf` namespace.
+  * Include a function to handle wrapping `.proto` files.
